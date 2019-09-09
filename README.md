@@ -9,4 +9,10 @@ Well, this could be problem in several cases like, if Organization doesn't allow
 I have modified the report widget so, now this widget can be used to give a "Home page" like experience with portal drill down support.
 
 Refer below screenshots.
+Rendering
+
 ![Report on Portal](https://github.com/rahulvpandey/PortalReportViewer/blob/master/portalReport1.png)
+
+Navigation
+![Navigation on Portal](https://github.com/rahulvpandey/PortalReportViewer/blob/master/portalReport2.png)
+
