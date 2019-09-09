@@ -7,3 +7,5 @@ Servicenow has an OOTB widget called reports which does this automatically, howe
 Well, this could be problem in several cases like, if Organization doesn't allow end users to land on native view.
 
 I have modified the report widget so, now this widget can be used to give a "Home page" like experience with portal drill down support.
+
+Refer below screenshots.
