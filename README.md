@@ -1,7 +1,7 @@
 # PortalReportViewer
 Widget to allow users to view and drill down reports on portal
 
-Update : If anyone used Update set from GIT, you might not get it work due to one of dependency did not get captured. Just navigate to instance/https://lnkd.in/fiAJdDz and change source from URL to UI script and select UI script : PortalifyReports
+Update : If anyone used Update set from GIT, you might not get it work due to one of dependency did not get captured. Just navigate to instance/sp_js_include.do?sys_id=2921254b9f1322008252baac757fcfeb and change source from URL to UI script and select UI script : PortalifyReports
 
 Servicenow has very powerful set of widgets on portal to allow users to see various records in single view.
 However, I came across multiple times that, user wants to have old school "Home Page" interface, where user can see interact with charts too.
